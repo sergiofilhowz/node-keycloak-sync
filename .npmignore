@@ -1,0 +1,11 @@
+node_modules/
+dist/test/
+.travis.yml
+circle.yml
+index.ts
+tsconfig.json
+yarn.lock
+lib/
+test/
+.idea/
+.circleci/
